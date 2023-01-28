@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lev</h1>
-<h3 align="center">Я Начинающий фронтенд-разработчик</h3>
+<h3 align="center">Начинающий фронтенд-разработчик</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levovskiiy&label=Profile%20views&color=0e75b6&style=flat" alt="levovskiiy" /> </p>
 
